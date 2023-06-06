@@ -1,0 +1,25 @@
+{
+  "name": "es-dirmodule",
+  "version": "1.0.0",
+  "description": "convert __dirname from CommonJS into ESModule System",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "es",
+    "esmodule",
+    "STT",
+    "shadow-tech-team",
+    "convert",
+    "dirname",
+    "__dirname"
+  ],
+  "author": "BiG ADLER (Shadow Tech Team - STT)",
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
